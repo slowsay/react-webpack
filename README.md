@@ -6,7 +6,7 @@
 <p>再次引用淘宝首页，进行测试
 </p>
 
-<code>
+<pre>
 'use strict';
 var path = require('path');
 var webpack = require('webpack');
@@ -59,7 +59,7 @@ module.exports = {
 	watch : true
 };
 
-</code>
+</pre>
 
 NPM
 -----------------------------------
