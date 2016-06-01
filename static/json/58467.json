@@ -1,0 +1,135 @@
+{
+    "24h": {
+        "data": [],
+        "reprotTime": "2015-11-16 08:00:00"
+    },
+    "7day": {
+        "data": [
+            {
+                "date": "2015-11-16",
+                "day": {},
+                "night": {
+                    "maxTemp": "23",
+                    "minTemp": "17",
+                    "weather": "阵雨",
+                    "weatherCode": "03",
+                    "windd": "南",
+                    "windv": "2-3级"
+                }
+            }, {
+                "date": "2015-11-17",
+                "day": {
+                    "maxTemp": "19",
+                    "minTemp": "17",
+                    "weather": "中雨",
+                    "weatherCode": "08",
+                    "windd": "北",
+                    "windv": "2级"
+                },
+                "night": {
+                    "maxTemp": "19",
+                    "minTemp": "17",
+                    "weather": "小雨",
+                    "weatherCode": "07",
+                    "windd": "东北",
+                    "windv": "3级"
+                }
+            }, {
+                "date": "2015-11-18",
+                "day": {},
+                "night": {
+                    "maxTemp": "18",
+                    "minTemp": "15",
+                    "weather": "小雨",
+                    "weatherCode": "07",
+                    "windd": "北",
+                    "windv": "3级"
+                }
+            }, {
+                "date": "2015-11-19",
+                "day": {
+                    "maxTemp": "19",
+                    "minTemp": "14",
+                    "weather": "小雨",
+                    "weatherCode": "07",
+                    "windd": "北",
+                    "windv": "2级"
+                },
+                "night": {
+                    "maxTemp": "19",
+                    "minTemp": "14",
+                    "weather": "阴",
+                    "weatherCode": "02",
+                    "windd": "北",
+                    "windv": "2级"
+                }
+            }, {
+                "date": "2015-11-20",
+                "day": {
+                    "maxTemp": "21",
+                    "minTemp": "16",
+                    "weather": "小雨",
+                    "weatherCode": "07",
+                    "windd": "东北",
+                    "windv": "2级"
+                },
+                "night": {
+                    "maxTemp": "21",
+                    "minTemp": "16",
+                    "weather": "阵雨",
+                    "weatherCode": "03",
+                    "windd": "东南",
+                    "windv": "2级"
+                }
+            }, {
+                "date": "2015-11-21",
+                "day": {
+                    "maxTemp": "24",
+                    "minTemp": "17",
+                    "weather": "阵雨",
+                    "weatherCode": "03",
+                    "windd": "东南",
+                    "windv": "2级"
+                },
+                "night": {
+                    "maxTemp": "24",
+                    "minTemp": "17",
+                    "weather": "多云",
+                    "weatherCode": "01",
+                    "windd": "东南",
+                    "windv": "2-3级"
+                }
+            }, {
+                "date": "2015-11-22",
+                "day": {
+                    "maxTemp": "26",
+                    "minTemp": "18",
+                    "weather": "多云",
+                    "weatherCode": "01",
+                    "windd": "南",
+                    "windv": "3级"
+                },
+                "night": {
+                    "maxTemp": "26",
+                    "minTemp": "18",
+                    "weather": "多云",
+                    "weatherCode": "01",
+                    "windd": "北",
+                    "windv": "2-3级"
+                }
+            }
+        ],
+        "reprotTime": "2015-11-16 15:42:00"
+    },
+    "aqi": {
+        "aqiLevel": "二级(良)",
+        "aqiValue": "57",
+        "pm": "0.04",
+        "reprotTime": "2015-11-16 16:00:00"
+    },
+    "cityCountry": {
+        "content": "今天夜里到明天阴有中雨局部大雨，东北风3级，杭州湾水面东北风5～6级。明天白天最高气温19℃，明天早晨最低气温16℃。16日气温实况：最高21.4℃，最低17.1℃。预计明天的空气质量等级：二级，良，极少数异常敏感人群应减少户外活动。",
+        "name": "慈溪",
+        "time": "2015-11-16 15:11:11"
+    }
+}
