@@ -63,13 +63,13 @@ module.exports = {
 
 NPM
 -----------------------------------
-step 1
-npm install init
-step 2
-npm install webpack --save-dev
-step 3 下载一系列插件
-npm install style-loader css-loader
-step 4
+step 1 <br/>
+npm install init<br/>
+step 2<br/>
+npm install webpack --save-dev<br/>
+step 3 下载一系列插件<br/>
+npm install style-loader css-loader<br/>
+step 4<br/>
 webpack/npm start
 
 UPDATE
