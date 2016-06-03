@@ -75,6 +75,6 @@ webpack/npm start
 UPDATE
 -----------------------------------
 
-VALUE
+VERSION
 -----------------------------------
 v1.0.0 update
