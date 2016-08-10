@@ -3,6 +3,9 @@
 > 用react/webpack基本功能构建淘宝首页
 > 根据webpack的打包功能，对react所写的脚本进行打包，并且编译。
 > 再次引用淘宝首页，进行测试
+
+## Example
+
 ```
 'use strict';
 var path = require('path');
@@ -55,7 +58,6 @@ module.exports = {
 	//实时查看
 	watch : true
 };
-
 ```
 
 ## Install
