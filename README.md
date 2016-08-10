@@ -81,3 +81,4 @@ webpack/npm start
 - 登录,菜单布局
 - 搜索布局
 - 联动表单,可以为未来表单监测作前提
+- add es6 version
