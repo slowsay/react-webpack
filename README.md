@@ -1,12 +1,9 @@
 # react-webpack
-用react/webpack基本功能构建淘宝首页
 
-<p>根据webpack的打包功能，对react所写的脚本进行打包，并且编译。
-</p>
-<p>再次引用淘宝首页，进行测试
-</p>
-
-<pre>
+> 用react/webpack基本功能构建淘宝首页
+> 根据webpack的打包功能，对react所写的脚本进行打包，并且编译。
+> 再次引用淘宝首页，进行测试
+```
 'use strict';
 var path = require('path');
 var webpack = require('webpack');
@@ -59,22 +56,26 @@ module.exports = {
 	watch : true
 };
 
-</pre>
+```
 
-NPM
------------------------------------
-step 1 <br/>
-npm install init<br/>
-step 2<br/>
-npm install webpack --save-dev<br/>
-step 3 下载一系列插件<br/>
-npm install style-loader css-loader<br/>
-step 4<br/>
+## Install
+
+```
+step 1
+npm install init
+
+step 2
+npm install webpack --save-dev
+
+step 3 下载一系列插件
+npm install style-loader css-loader
+
+step 4
 webpack/npm start
+```
 
-UPDATE
------------------------------------
+## Features
 
-VERSION
------------------------------------
-v1.0.0 update
+- 登录,菜单布局
+- 搜索布局
+- 联动表单,可以为未来表单监测作前提
