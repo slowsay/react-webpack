@@ -82,3 +82,5 @@ webpack/npm start
 - 搜索布局
 - 联动表单,可以为未来表单监测作前提
 - add es6 version
+- add router
+- add redux
