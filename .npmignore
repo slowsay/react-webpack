@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+docs
+src
+jest
+webpack.config.js
+webpack.config.dev.js
