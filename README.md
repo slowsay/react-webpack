@@ -84,3 +84,4 @@ webpack/npm start
 - add es6 version
 - add router
 - add redux
+- update combinReducers()
