@@ -74,7 +74,14 @@ npm install style-loader css-loader
 
 step 4
 webpack/npm start
+
+step 5
+npm test
+
+
 ```
+
+
 
 ## Features
 
@@ -85,3 +92,4 @@ webpack/npm start
 - add router
 - add redux
 - update combinReducers()
+- add jest 测试接口
